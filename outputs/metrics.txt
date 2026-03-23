@@ -1,0 +1,18 @@
+=== Logistic Regression ===
+  accuracy: 0.7224
+  precision: 0.7503
+  recall: 0.6580
+  f1: 0.7012
+
+=== Random Forest ===
+  accuracy: 0.7018
+  precision: 0.6993
+  recall: 0.6973
+  f1: 0.6983
+
+=== Rule-Based ===
+  accuracy: 0.6937
+  precision: 0.6573
+  recall: 0.7962
+  f1: 0.7201
+
